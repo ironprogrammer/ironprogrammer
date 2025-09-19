@@ -6,4 +6,4 @@ to dig more into my wordpress open source work, head to [my wporg profile](https
 
 ### what's new?
 - yes, the rumors are true: i'm available for hire! check out [my website](https://brianalexander.com/) or [my linkedin](https://www.linkedin.com/in/brianalexander/) to learn more about me.
-- check out my new [pickleball ratings](https://github.com/ironprogrammer/pickleball-ratings) plugin and easily share your dupr with the world! (wait, [what's pickleball?](https://en.wikipedia.org/wiki/Pickleball), and [what's dupr?](https://www.dupr.com/post/what-is-a-pickleball-rating))
+- install (and test!) my new [pickleball ratings](https://github.com/ironprogrammer/pickleball-ratings) plugin and easily share your dupr with the world! (wait, [what's pickleball?](https://en.wikipedia.org/wiki/Pickleball), and [what's dupr?](https://www.dupr.com/post/what-is-a-pickleball-rating))
