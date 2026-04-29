@@ -16,6 +16,7 @@ i'm still in search of my next adventure for a great work/culture fit. check out
 ## plugins
 - [setlist-player](https://github.com/ironprogrammer/setlist-player) -- musician's practice tool for wordpress
 - [pickleball ratings](https://github.com/ironprogrammer/pickleball-ratings) -- show of your DUPR rating in wordpress
+- [mu-plugins](https://github.com/ironprogrammer/mu-plugins) -- misc mu utils i find handy
 
 ## for the automator in me
 - [shades](https://github.com/ironprogrammer/shades) -- shade and scene control that's better than an app
