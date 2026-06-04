@@ -9,6 +9,7 @@ i'm still in search of my next adventure for a great work/culture fit. check out
 [![My Skills](https://skillicons.dev/icons?i=claude,php,wordpress,laravel,bash,nodejs,react,postman,html,js,sass,css,git,apple)](https://skillicons.dev)
 
 ## web projects
+- [troche](https://ironprogrammer.com/troche/) -- song form builder and practice metronome
 - [dinkround.com](https://dinkround.com) -- pickleball session management for organizers
 - [swimcheck.org](https://swimcheck.org) -- oregon swimming (osi) motivational times tracker
 
