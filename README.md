@@ -10,7 +10,6 @@ i'm still in search of my next adventure for a great work/culture fit. check out
 
 ## web projects
 - [troche](https://ironprogrammer.com/troche/) -- song form builder and practice metronome
-- [dinkround.com](https://dinkround.com) -- pickleball session management for organizers
 - [swimcheck.org](https://swimcheck.org) -- oregon swimming (osi) motivational times tracker
 
 ## for the automator in me
