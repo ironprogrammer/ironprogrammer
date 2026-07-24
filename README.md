@@ -13,9 +13,9 @@ i'm still in search of my next adventure for a great work/culture fit. check out
 - [swimcheck.org](https://swimcheck.org) -- oregon swimming (osi) motivational times tracker
 
 ## wp plugins
-- [troche wp plugin](https://github.com/ironprogrammer/troche/tree/main/wp-plugin) -- use wp as your [troche](https://ironprogrammer.com/troche/) db
-- the filtered twins: [filtered-feeds](https://github.com/ironprogrammer/filtered-feeds) and [filtered-calendars](https://github.com/ironprogrammer/filtered-calendars) -- clean up 3rd party rss and ical feeds
+- [troche wp plugin](https://github.com/ironprogrammer/troche/tree/main/wp-plugin) -- use wp as your [troche](https://ironprogrammer.com/troche/) db to more easily collaborate on song forms with your music buddies
 - [setlist-player](https://github.com/ironprogrammer/setlist-player) -- musician's practice tool for wordpress
+- the filtered twins: [filtered-feeds](https://github.com/ironprogrammer/filtered-feeds) and [filtered-calendars](https://github.com/ironprogrammer/filtered-calendars) -- clean up 3rd party rss and ical feeds
 - [pickleball-ratings](https://github.com/ironprogrammer/pickleball-ratings) -- show off your dupr rating in wordpress
 - [mu-plugins](https://github.com/ironprogrammer/mu-plugins) -- misc mu utils i find handy
 
