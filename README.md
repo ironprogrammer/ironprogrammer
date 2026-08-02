@@ -2,14 +2,14 @@
 
 i'm brian, aka ironprogrammer, a full stack generalist, wordpress core contributor, plugin hacker, test and quality fiend, and automator of things. i've worked for [automattic](https://automattic.com/) as a full-time sponsored contributor, and for over a decade helped run a [marketing agency](https://oakcreektrail.com) implementing bespoke wordpress and digital marketing services and automations for all our clients. there's also other stuff over in [my linkedin](https://www.linkedin.com/in/brianalexander/).
 
-to dig more into my wordpress open source work, head to [my wporg profile](https://profiles.wordpress.org/ironprogrammer/) or look me up in [core trac](https://core.trac.wordpress.org/search?q=props+ironprogrammer&noquickjump=1&changeset=on&ticket=on). i've [contributed to core since 5.9](https://peterwilson.cc/wordpress-contribution-history/?wp-credit-history-username=ironprogrammer), served as test team rep, joined release squads, run wordcamp contributor day tables, and posted a bit in the [core](https://make.wordpress.org/core/author/ironprogrammer/) and [test](https://make.wordpress.org/test/author/ironprogrammer/) blogs.
+to dig more into my wordpress open source work, head to [my wporg profile](https://profiles.wordpress.org/ironprogrammer/) or look me up in [core trac](https://core.trac.wordpress.org/search?q=props+ironprogrammer&noquickjump=1&changeset=on&ticket=on). i've [contributed to core since 5.9](https://profiles.wordpress.org/ironprogrammer/), served in wp release squads and as test team rep, run wordcamp contributor day tables, and posted a bit in the [core](https://make.wordpress.org/core/author/ironprogrammer/) and [test](https://make.wordpress.org/test/author/ironprogrammer/) blogs.
 
-i'm still in search of my next adventure for a great work/culture fit. check out [my website](https://brianalexander.com/) to learn more about my irl side.
+i'm open to part time or contract work. check out [my website](https://brianalexander.com/) to learn more about me irl, or keep tabs on [coolbandshirt](https://coolbandshirt.com) for what's happening with my band.
 
 [![My Skills](https://skillicons.dev/icons?i=php,wordpress,laravel,bash,nodejs,react,postman,html,js,sass,css,git,apple,aws,github,md&perline=8)](https://skillicons.dev)
 
 ## web projects
-- [troche](https://ironprogrammer.com/troche/) -- song form builder and practice metronome, now with [wp-backed storage option](https://github.com/ironprogrammer/troche/tree/main/wp-plugin)
+- [troche](https://ironprogrammer.com/troche/) -- song form builder and practice metronome, build for my band -- now with [wp-backed storage option](https://github.com/ironprogrammer/troche/tree/main/wp-plugin)
 - [swimcheck.org](https://swimcheck.org) -- oregon swimming (osi) motivational times tracker
 
 ## wp plugins
