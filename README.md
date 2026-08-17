@@ -11,6 +11,7 @@ i'm open to part time or contract work. check out [my website](https://brianalex
 ## web projects
 - [troche](https://ironprogrammer.com/troche/) -- song form builder and practice metronome, build for my band -- now with [wp-backed storage option](https://github.com/ironprogrammer/troche/tree/main/wp-plugin)
 - [swimcheck.org](https://swimcheck.org) -- oregon swimming (osi) motivational times tracker
+- [md2pdf](https://ironprogrammer.com/md2pdf/) -- markdown previewer with contracty-layout support, and better markdown—>PDF/print output than defaults in browsers or obsidian
 
 ## wp plugins
 - [troche wp plugin](https://github.com/ironprogrammer/troche/tree/main/wp-plugin) -- use wp as your [troche](https://ironprogrammer.com/troche/) db to more easily collaborate on song forms with your music buddies
