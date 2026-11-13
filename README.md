@@ -9,6 +9,7 @@ i'm open to part time or contract work. check out [my website](https://brianalex
 [![My Skills](https://skillicons.dev/icons?i=php,wordpress,laravel,bash,nodejs,react,postman,html,js,sass,css,git,apple,aws,github,md&perline=8)](https://skillicons.dev)
 
 ## web projects
+- [tonic-vault](https://ironprogrammer.com/tonic-vault/) -- browser-based storage of patterns/sound packs for teenage engineering's PO-32 tonic; share patterns or export to mid/wav
 - [troche](https://ironprogrammer.com/troche/) -- song form builder and practice metronome, build for my band -- now with [wp-backed storage option](https://github.com/ironprogrammer/troche/tree/main/wp-plugin)
 - [swimcheck.org](https://swimcheck.org) -- oregon swimming (osi) motivational times tracker
 - [md2pdf](https://ironprogrammer.com/md2pdf/) -- markdown previewer with contracty-layout support, and better markdown—>PDF/print output than defaults in browsers or obsidian
